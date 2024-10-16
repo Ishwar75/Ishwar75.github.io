@@ -29,7 +29,7 @@ navigation:
   - title: Home
     url: "/"
   - title: About Me
-    url: "/about_me.html"
+    url: "/aboutme.html"
   - title: Research
     url: "/research.html"
   - title: Contact
